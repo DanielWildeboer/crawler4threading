@@ -1,0 +1,45 @@
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+c:\users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\wdebu\onedrive\documenten\visual studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\wdebu\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Daniel\Dropbox\Jaar 3 periode 3\Moduleboeken + boeken\Threading c#\voorbeelden\Voorbeeld project wdeb\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
